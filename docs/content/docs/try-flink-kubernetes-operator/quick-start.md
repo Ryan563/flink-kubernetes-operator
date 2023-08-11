@@ -33,7 +33,7 @@ Kubernetes installation.
 ## Prerequisites
 
 We assume that you have a local installations of the following:
-1. [docker](https://docs.docker.com/)
+1. [docker](https://docs.docker.com/)fafdffaf
 2. [kubernetes](https://kubernetes.io/)
 3. [helm](https://helm.sh/docs/intro/quickstart/)
 
